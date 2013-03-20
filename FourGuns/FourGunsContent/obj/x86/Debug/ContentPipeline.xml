@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Sprites\Enemy\Tank\Body\tank_body1.png</Source>
+      <Name>Sprites\Enemy\Tank\Body\tank_body1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb</Output>
+      <Time>2012-04-22T18:58:28.0606157-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Tred\tank_tred1.png</Source>
+      <Name>Sprites\Enemy\Tank\Tred\tank_tred1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb</Output>
+      <Time>2012-04-22T18:58:28.0676161-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret01.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb</Output>
+      <Time>2012-04-22T18:58:28.0286139-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret1.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb</Output>
+      <Time>2012-04-22T18:58:28.030614-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret2.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb</Output>
+      <Time>2012-04-22T18:58:28.0336142-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret3.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb</Output>
+      <Time>2012-04-22T18:58:28.0436147-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret4.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb</Output>
+      <Time>2012-04-22T18:58:28.0456148-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret5.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret5</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb</Output>
+      <Time>2012-04-22T18:58:28.047615-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret6.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret6</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb</Output>
+      <Time>2012-04-22T18:58:28.0496151-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret7.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret7</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb</Output>
+      <Time>2012-04-22T18:58:28.0516152-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret8.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret8</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb</Output>
+      <Time>2012-04-22T18:58:28.0536153-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Pixel Girl1.png</Source>
+      <Name>Sprites\Player\Pixel Girl1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb</Output>
+      <Time>2012-04-22T18:58:27.9796111-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Pixel Girl2.png</Source>
+      <Name>Sprites\Player\Pixel Girl2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb</Output>
+      <Time>2012-04-22T18:58:27.9816112-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\Pixel Girl3.png</Source>
+      <Name>Sprites\Player\Pixel Girl3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb</Output>
+      <Time>2012-04-22T18:58:27.9866115-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_dirt.png</Source>
+      <Name>Tiles\tile_dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb</Output>
+      <Time>2012-04-22T18:58:27.8686047-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_grass.png</Source>
+      <Name>Tiles\tile_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb</Output>
+      <Time>2012-04-22T18:58:27.8456034-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_sand.png</Source>
+      <Name>Tiles\tile_sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb</Output>
+      <Time>2012-04-22T18:58:27.8546039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water.png</Source>
+      <Name>Tiles\tile_water</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb</Output>
+      <Time>2012-04-22T18:58:27.8526038-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_bottom.png</Source>
+      <Name>Tiles\tile_water_shore_bottom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb</Output>
+      <Time>2012-04-22T18:58:27.8776052-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_left.png</Source>
+      <Name>Tiles\tile_water_shore_left</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb</Output>
+      <Time>2012-04-22T18:58:27.8616043-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_right.png</Source>
+      <Name>Tiles\tile_water_shore_right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb</Output>
+      <Time>2012-04-22T18:58:27.8436033-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_top.png</Source>
+      <Name>Tiles\tile_water_shore_top</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb</Output>
+      <Time>2012-04-22T18:58:27.8756051-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.png</Source>
+      <Name>Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb</Output>
+      <Time>2012-04-22T18:58:28.0266138-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menubg.png</Source>
+      <Name>Menu\menubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb</Output>
+      <Time>2012-04-22T18:58:27.9076069-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Menu\menuheader.png</Source>
+      <Name>Menu\menuheader</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb</Output>
+      <Time>2012-04-22T18:58:27.9106071-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\SoldierSpriteSheet1.png</Source>
+      <Name>Sprites\Player\SoldierSpriteSheet1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb</Output>
+      <Time>2012-04-22T18:58:27.9886116-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_corner_lowerleft.png</Source>
+      <Name>Tiles\tile_water_shore_corner_lowerleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb</Output>
+      <Time>2012-04-22T18:58:27.8946062-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_corner_lowerright.png</Source>
+      <Name>Tiles\tile_water_shore_corner_lowerright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb</Output>
+      <Time>2012-04-22T18:58:27.8666046-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_corner_upperleft.png</Source>
+      <Name>Tiles\tile_water_shore_corner_upperleft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb</Output>
+      <Time>2012-04-22T18:58:27.8486036-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_shore_corner_upperright.png</Source>
+      <Name>Tiles\tile_water_shore_corner_upperright</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb</Output>
+      <Time>2012-04-22T18:58:27.8716049-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Gun\Bullet\bullet.png</Source>
+      <Name>Sprites\Gun\Bullet\bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb</Output>
+      <Time>2012-04-22T18:58:27.9416089-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\industrial_sand_01.png</Source>
+      <Name>Tiles\industrial_sand_01</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb</Output>
+      <Time>2012-04-22T18:58:27.8806054-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\industrial_sand_02.png</Source>
+      <Name>Tiles\industrial_sand_02</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb</Output>
+      <Time>2012-04-22T18:58:27.8836056-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\industrial_sand_03.png</Source>
+      <Name>Tiles\industrial_sand_03</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb</Output>
+      <Time>2012-04-22T18:58:27.8856057-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_cherryblossom_dirt.png</Source>
+      <Name>Tiles\tree_cherryblossom_dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_dirt.xnb</Output>
+      <Time>2012-04-22T18:58:27.8416032-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_cherryblossom_grass.png</Source>
+      <Name>Tiles\tree_cherryblossom_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_grass.xnb</Output>
+      <Time>2012-04-22T18:58:27.8596042-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_cherryblossom_industrial.png</Source>
+      <Name>Tiles\tree_cherryblossom_industrial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_industrial.xnb</Output>
+      <Time>2012-04-22T18:58:27.8576041-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_dead_industrial.png</Source>
+      <Name>Tiles\tree_dead_industrial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dead_industrial.xnb</Output>
+      <Time>2012-04-22T18:58:27.8646045-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_dirt.png</Source>
+      <Name>Tiles\tree_dirt</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dirt.xnb</Output>
+      <Time>2012-04-22T18:58:27.873605-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tree_grass.png</Source>
+      <Name>Tiles\tree_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_grass.xnb</Output>
+      <Time>2012-04-22T18:58:27.8506037-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Gun\Bullet\buttBullet.png</Source>
+      <Name>Sprites\Gun\Bullet\buttBullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb</Output>
+      <Time>2012-04-22T18:58:27.9396088-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\BlueSoldier.png</Source>
+      <Name>Sprites\Player\BlueSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb</Output>
+      <Time>2012-04-22T18:58:27.9926118-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\GreenSoldier.png</Source>
+      <Name>Sprites\Player\GreenSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb</Output>
+      <Time>2012-04-22T18:58:27.9836113-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\RainbowWarrior.png</Source>
+      <Name>Sprites\Player\RainbowWarrior</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb</Output>
+      <Time>2012-04-22T18:58:27.9906117-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\RedSoldier.png</Source>
+      <Name>Sprites\Player\RedSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb</Output>
+      <Time>2012-04-22T18:58:27.9756108-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sprites\Player\YellowSoldier.png</Source>
+      <Name>Sprites\Player\YellowSoldier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb</Output>
+      <Time>2012-04-22T18:58:27.9776109-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_corner_1.png</Source>
+      <Name>Tiles\tile_water_corner_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb</Output>
+      <Time>2012-04-22T18:58:27.8876058-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_corner_2.png</Source>
+      <Name>Tiles\tile_water_corner_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb</Output>
+      <Time>2012-04-22T18:58:27.8896059-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_corner_3.png</Source>
+      <Name>Tiles\tile_water_corner_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb</Output>
+      <Time>2012-04-22T18:58:27.8926061-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tiles\tile_water_corner_4.png</Source>
+      <Name>Tiles\tile_water_corner_4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb</Output>
+      <Time>2012-04-22T18:58:27.8966063-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collidables\rock_1.png</Source>
+      <Name>Collidables\rock_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb</Output>
+      <Time>2012-04-22T18:58:28.6476493-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collidables\tree.png</Source>
+      <Name>Collidables\tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb</Output>
+      <Time>2012-04-22T18:58:28.6496494-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collidables\tree_cherryblossom.png</Source>
+      <Name>Collidables\tree_cherryblossom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb</Output>
+      <Time>2012-04-22T18:58:28.6516495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Collidables\tree_dead.png</Source>
+      <Name>Collidables\tree_dead</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb</Output>
+      <Time>2012-04-22T18:58:28.6446491-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\basicFont.spritefont</Source>
+      <Name>Fonts\basicFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\basicFont.xnb</Output>
+      <Time>2012-04-22T18:58:27.9276081-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Weapons\Guns\Pistol.wav</Source>
+      <Name>Sounds\Weapons\Guns\Pistol</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb</Output>
+      <Time>2012-04-22T18:58:28.5756452-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\Music\main_theme.mp3</Source>
+      <Name>Sounds\Music\main_theme</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb</Output>
+      <Extra>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma</Extra>
+      <Time>2012-04-22T18:58:28.4976407-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGunsContent\</RootDirectory>
+      <LoggerRootDirectory>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\</LoggerRootDirectory>
+      <IntermediateDirectory>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGunsContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>W:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-01-15T15:30:14.6015133-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FourGuns.FourGuns" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAEAAAABAgwEEIABAAAggAAAAAAgAAAAAQAAAAAQ=</HashCode>
+      <FileName>FourGuns.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.GameObject">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAIAAAABAAAAAQAAAAAAQAAAA=</HashCode>
+      <FileName>Game Objects\GameObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.MovGameObj">
+    <Position X="3.25" Y="1.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="FourGuns.MovGameObj.Facing" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Game Objects\Moveable Objects\MovGameObj.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAAAAAABAAAAAQAAIAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\MovGameObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.StatGameObj">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Static Game Objects\StatGameObj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Actor">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAg=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Actors\Actor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Projectile">
+    <Position X="6.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAiAAAAAIAAEACAAAAAAAAEAAAA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Projectiles\Projectile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Player">
+    <Position X="0.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgABAAAQAwAgCYEBCckEKQgBABAigAACNACCAQAMA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Actors\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.NonPlayer">
+    <Position X="2.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Actors\NonPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Friendly">
+    <Position X="2.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Actors\Friendly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Enemy">
+    <Position X="4.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Moveable Objects\Actors\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Interactive">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Static Game Objects\Interactive.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FourGuns.Weapon">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAADgAAAAAAAAAAAAhAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Game Objects\Weapons\Weapon.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

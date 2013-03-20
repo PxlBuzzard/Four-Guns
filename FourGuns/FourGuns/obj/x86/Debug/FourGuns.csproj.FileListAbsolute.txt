@@ -1,0 +1,540 @@
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+C:\Users\Pxl\Documents\Visual Studio 2010\Projects\Four Guns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\basicFont.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_dirt.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_grass.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_industrial.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dead_industrial.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dirt.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_grass.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_dirt.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_grass.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_cherryblossom_industrial.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dead_industrial.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_dirt.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tree_grass.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\basicFont.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\jra2196\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\basicFont.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+W:\Users\Pixel\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\BlueTrooper.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\GreenTrooper.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\PinkTrooper.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\RedTrooper.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\default1.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\Default.xnb
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.png
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+C:\Users\Sean Brennan\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\BlueTrooper.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\GreenTrooper.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\PinkTrooper.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\RedTrooper.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\default1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\Default.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.png
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\BlueTrooper.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\GreenTrooper.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\PinkTrooper.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\RedTrooper.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\default1.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\Default.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\ZombieSprite.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\mainmenu.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\redcircle.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\greencircle.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\basicFont.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.png
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(6)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\ZombieSprite.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\redcircle.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\greencircle.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopleft.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\ammocircle.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomleft.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomright.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopright.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\BlueTrooper.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\GreenTrooper.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\PinkTrooper.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\RedTrooper.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\default1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\Default.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\ZombieSprite.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\ammocircle.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\redcircle.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\greencircle.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopleft.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomleft.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomright.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopright.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\wavesurvivalheader.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menu.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.png
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\Map3\map3.Layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\Map3\map3Coll.Layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\Map4\layer1.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\Map4\layer2.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0selected.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1selected.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2selected.xnb
+\\banner.main.ad.rit.edu\students\jrf2574\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(8)\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\visitor.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\wavesurvivalheader.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menu.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0selected.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1selected.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2selected.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\visitor.xnb
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\DMtheMap\map3.Layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\DMtheMap\map3Coll.Layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\WStheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\dpj7414\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\WStheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menuheader.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Body\tank_body1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Tred\tank_tred1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret01.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret2.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret3.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret4.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret5.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret6.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret7.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret8.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomleft.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundbottomright.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopleft.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\UIbackgroundtopright.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\wavesurvivalheader.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl2.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\Pixel Girl3.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_dirt.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_grass.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_sand.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_bottom.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_left.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_right.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_top.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\Tank\Turret\tank_turret_sprite_sheet.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menubg.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\SoldierSpriteSheet1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerleft.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_lowerright.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperleft.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_shore_corner_upperright.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\bullet.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_01.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_02.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\industrial_sand_03.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Gun\Bullet\buttBullet.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\BlueSoldier.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\GreenSoldier.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RainbowWarrior.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\RedSoldier.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\YellowSoldier.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_2.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_3.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\tile_water_corner_4.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\rock_1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_cherryblossom.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Collidables\tree_dead.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\BlueTrooper.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\GreenTrooper.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\PinkTrooper.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Player\TrooperSprites\RedTrooper.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\default1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\Default.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sprites\Enemy\ZombieSprite.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\ammocircle.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\redcircle.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\greencircle.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Menu\menu.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun0selected.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun1selected.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\UI\Gun Bar\gun2selected.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Fonts\visitor.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Weapons\Guns\Pistol.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.xnb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Sounds\Music\main_theme.wma
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Tiles\blanktile.png
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\BobTheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\DMtheMap\map3.Layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\DMtheMap\map3Coll.Layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\WStheMap\layer1.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\WStheMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer1.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\Content\Maps\TestMap\layer2.layer
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\bin\x86\Debug\FourGuns.pdb
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\obj\x86\Debug\ResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.exe
+\\banner.main.ad.rit.edu\students\sjb6394\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(1)\FourGuns\FourGuns\obj\x86\Debug\FourGuns.pdb

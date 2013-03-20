@@ -1,0 +1,24 @@
+Four Guns
+Level Editor Tool
+
+#region Level Editor Instructions0
+
+*To Run the Editor you must run it separately* (Run TileEditor)
+
+In order to use the level editor follow these steps.
+
+1) Select the layer which you wish to use from the drop down menu. (File > Open) make sure it is a .layer file
+
+2) Select whether you wish you draw or erase using the radio buttons 
+
+3) Select the texture you wish to replace the current texture with.(if drawing)
+
+4) Make sure that the current layer you wish to work in is highlighed in the Layer List box.
+
+5) Edit the map to your content (use scroll bars to scroll accross the map)
+
+6) Add layers using the add button under the layer list box. Remove using the remove button (highlight which layer to remove).
+
+7) Save layers using the save option in the drop dowm menu (File > Save).
+
+#endregion

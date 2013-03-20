@@ -1,0 +1,48 @@
+[Textures]
+Tiles/industrial_sand_01
+Tiles/industrial_sand_02
+Tiles/industrial_sand_03
+Tiles/tile_dirt
+Tiles/tile_grass
+Tiles/tile_sand
+Tiles/tile_water
+Tiles/tile_water_shore_bottom
+Tiles/tile_water_shore_corner_lowerleft
+Tiles/tile_water_shore_corner_lowerright
+Tiles/tile_water_shore_corner_upperleft
+Tiles/tile_water_shore_corner_upperright
+Tiles/tile_water_shore_left
+Tiles/tile_water_shore_right
+Tiles/tile_water_shore_top
+Tiles/tile_water_corner_1
+Tiles/tile_water_corner_2
+Tiles/tile_water_corner_3
+Tiles/tile_water_corner_4
+\\banner.main.ad.rit.edu\students\sdr3131\IGMProfile\Documents\Visual Studio 2010\Projects\FourGuns(5)\FourGuns\FourGunsContent\Tiles\default1
+Tiles/blanktile
+Collidables/rock_1
+
+[Layout]
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 6 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 6 6 6 6 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 6 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 6 6 6 6 6 6 6 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+14 14 11 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+6 6 13 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
+6 6 13 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 4 3 3 3 3 3 3 3 3 
