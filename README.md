@@ -1,8 +1,8 @@
 =========
-Four-Guns
+Four Guns
 =========
 
-image:: https://raw.github.com/PxlBuzzard/Four-Guns/master/FourGuns/FourGunsContent/Menu/menuheader.png
+.. image:: https://raw.github.com/PxlBuzzard/Four-Guns/master/FourGuns/FourGunsContent/Menu/menuheader.png
 
 A 2D cooperative arcade shooter built in C#/XNA.
 
