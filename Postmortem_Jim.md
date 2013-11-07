@@ -1,13 +1,13 @@
 ## What went right
 
-* We scoped our project fairly well in that we had a working engine with multiplayer in the first couple * weeks. 
-* It took a little work, but I like my sprite sheets for the players and zombies. I think they move in a * fashion that fits the sort of throwback pixelated style too. 
+* We scoped our project fairly well in that we had a working engine with multiplayer in the first couple weeks. 
+* It took a little work, but I like my sprite sheets for the players and zombies. I think they move in a fashion that fits the sort of throwback pixelated style too. 
 * The game is fairly entertaining to play with friends.
 * My camera works great!
 
 ## What went wrong
 
-* There were a few issues with organizing ourselves and communicating decisions across the entire group, * but things seemed to work out in the end.
+* There were a few issues with organizing ourselves and communicating decisions across the entire group, but things seemed to work out in the end.
 * Merging the level editor and the game seemed to produce a good number of issues throughout the ten weeks.
 * Collision still gives us some issues.
 * We never really got to build a large library of guns or a way to manage them in the game.
