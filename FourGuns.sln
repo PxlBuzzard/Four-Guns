@@ -8,12 +8,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F70AF2F5-3668-47E4-B813-823AC8AC2F9E}"
 	ProjectSection(SolutionItems) = preProject
 		Level Editor Instructions.txt = Level Editor Instructions.txt
-		MS4 Grading Guide.doc = MS4 Grading Guide.doc
-		Report_Daniel.doc = Report_Daniel.doc
-		Report_Jayson.docx = Report_Jayson.docx
-		Report_Jim.docx = Report_Jim.docx
-		Sean_Report.doc = Sean_Report.doc
-		Shivam_Report.doc = Shivam_Report.doc
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileEngine", "TileEngine\TileEngine.csproj", "{633DE2BC-E512-4FDD-807C-CBD64B7D2648}"
