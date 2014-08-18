@@ -22,4 +22,4 @@ A 2D cooperative arcade shooter. Created in Game Software Development 3 at Roche
 * [Sean Brennan](https://github.com/ScrappyOrc)
 * [Jayson Fitch](https://github.com/jrf2574)
 * [Shivam Rawal](https://github.com/shiv217)
-* Jim Arnold
+* [Jim Arnold](https://github.com/arnoldj149)
