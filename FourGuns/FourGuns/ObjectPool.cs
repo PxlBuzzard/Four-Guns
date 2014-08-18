@@ -4,7 +4,7 @@ using System.Reflection;
 using System.Collections.Generic;
 #endregion 
 
-namespace CodeSamples
+namespace FourGuns
 {
     /// <summary>
     /// A generic-type object pool that can create new objects if empty.

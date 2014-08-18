@@ -20,7 +20,7 @@ namespace FourGuns
     {
         #region Fields
         private Random rnd;
-        private ObjectPool<Zombie> enemyPool;
+        private DynamicObjectPool<Zombie> enemyPool;
         private Vector2 spawnPosition;
         private int mapWidth;
         private int mapHeight;
@@ -46,7 +46,7 @@ namespace FourGuns
             //instantiate things
             activeEnemies = new List<Enemy>();
             rnd = new Random();
-            enemyPool = new ObjectPool<Zombie>(15, new Zombie(theContentManager, Vector2.Zero));
+            enemyPool = new DynamicObjectPool<Zombie>(15, new Zombie(theContentManager, Vector2.Zero));
 
             //save map size
             mapWidth = map.WidthInPixels;

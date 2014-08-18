@@ -28,7 +28,7 @@ namespace FourGuns
             { Light, Medium, Heavy }
         public GunWeight gunWeight; //which weight category the gun is
 
-        protected ObjectPool<Bullet> bulletPool; //bullet pool for the gun
+        protected DynamicObjectPool<Bullet> bulletPool; //bullet pool for the gun
         #endregion
 
         protected Gun() { }
@@ -72,7 +72,7 @@ namespace FourGuns
             currentAmmo = maxAmmo;
             bulletSprite = theContentManager.Load<Texture2D>("Sprites/Gun/Bullet/bullet");
 
-            bulletPool = new ObjectPool<Bullet>(10, new Bullet(bulletSprite, bulletColor));
+            bulletPool = new DynamicObjectPool<Bullet>(10, new Bullet(bulletSprite, bulletColor));
         }
 
         /// <summary>
@@ -105,7 +105,7 @@ namespace FourGuns
             timeBetweenAttack = timeBetweenShots;
             bulletSprite = theContentManager.Load<Texture2D>(theBulletSprite);
             currentAmmo = maxAmmo;
-            bulletPool = new ObjectPool<Bullet>(10, new Bullet(bulletSprite, bulletColor));
+            bulletPool = new DynamicObjectPool<Bullet>(10, new Bullet(bulletSprite, bulletColor));
         }
 
         /// <summary>
